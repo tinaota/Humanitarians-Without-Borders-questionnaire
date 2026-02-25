@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/Humanitarians_Without_Borders_questionnaire/questionnaire.html"
+    }
+  ]
+}
